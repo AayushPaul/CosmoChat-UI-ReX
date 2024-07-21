@@ -1,0 +1,27 @@
+  .landing-page {
+    text-align: center;
+    margin-top: 200px; 
+  }
+
+  .image-container {
+    margin-top: -20px; 
+  }
+
+  .start-chat-button {
+    background-color: #9f41ce; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  .start-chat-button:hover {
+    background-color: #551674;
+  }
+  
