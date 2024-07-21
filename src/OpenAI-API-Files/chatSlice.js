@@ -2,7 +2,7 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const OPENAI_API_KEY = 'sk-proj-ZvhjaY0Ug6iiLJCJv9YbT3BlbkFJJxWpFvFmSxxz8XLHCLQg';
+const OPENAI_API_KEY = '';
 
 export const sendMessage = createAsyncThunk(
   'chat/sendMessage',
